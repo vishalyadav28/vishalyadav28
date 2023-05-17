@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @vishalyadav28
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently working on django with react 
+- 👀 I’m interested in frontend and backend development
+- 🌱 I’m currently working on Django, Ruby on rails and Flutter
 - 📫 How to reach me ...
+LinkedIn -> https://www.linkedin.com/in/28vishalyadav/
 Email -> vishalyadav8887690@gmail.com
 
 <!---
