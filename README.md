@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter,ROR**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vishalyadav28](https://github.com/vishalyadav28)
+- 👨‍💻 All of my projects are available at [https://github.com/vishalyadav28?tab=repositories](https://github.com/vishalyadav28?tab=repositories)
 
 - 💬 Ask me about **Python, Ruby, DRF, ROR**
 
