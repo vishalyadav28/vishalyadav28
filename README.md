@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@vishalyadav8887690](https://medium.com/@vishalyadav8887690)
 
-- 💬 Ask me about **Python, Ruby, DRF, ROR, Restful api, GraphQL with Django**
+- 💬 Ask me about **Python, DRF, Restful api, GraphQL with Django, ROR, Ruby**
 
 - 📫 How to reach me **vishalyadav8887690@gmail.com**
 
