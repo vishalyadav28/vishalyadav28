@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BBS , Saathi](https://apps.apple.com/us/app/body-by-simone/id1326972091 , https://play.google.com/store/apps/details?id=com.frankross.saathi)
 
-- 🌱 I’m currently learning **Flutter,ROR,GraphQl with Django**
+- 🌱 I’m currently learning **GO**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishalyadav28](https://github.com/vishalyadav28)
 
