@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishal Yadav</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working on [BBS , Saathi](https://apps.apple.com/us/app/body-by-simone/id1326972091 , https://play.google.com/store/apps/details?id=com.frankross.saathi)
+- 🔭 I’m currently working on [PivotAce]()
 
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently learning **GenAI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishalyadav28](https://github.com/vishalyadav28)
 
