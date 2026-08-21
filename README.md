@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Yadav</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working on [PivotAce]()
+- 🔭 I’m currently working on [Onespeak]()
 
 - 🌱 I’m currently learning **GenAI**
 
